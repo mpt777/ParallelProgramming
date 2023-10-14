@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\mptay\source\repos\HW8_Traveling_Salesperson\Source.cpp(98,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mptay\source\repos\HW8_Traveling_Salesperson\Source.cpp(119,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mptay\source\repos\HW8_Traveling_Salesperson\Source.cpp(190,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mptay\source\repos\HW8_Traveling_Salesperson\Source.cpp(155,17): warning C4101: 'request': unreferenced local variable
+C:\Users\mptay\source\repos\HW8_Traveling_Salesperson\Source.cpp(186,9): warning C4101: 'work': unreferenced local variable
+C:\Users\mptay\source\repos\HW8_Traveling_Salesperson\Source.cpp(158,9): warning C4101: 'token': unreferenced local variable
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\utility(247,61): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Users\mptay\source\repos\HW8_Traveling_Salesperson\Source.cpp(227): message : see reference to function template instantiation 'std::pair<int,int>::pair<int,double,0>(std::pair<int,double> &&) noexcept' being compiled
+C:\Users\mptay\source\repos\HW8_Traveling_Salesperson\Source.cpp(227): message : see reference to function template instantiation 'std::pair<int,int>::pair<int,double,0>(std::pair<int,double> &&) noexcept' being compiled
+C:\Users\mptay\source\repos\HW8_Traveling_Salesperson\Source.cpp(95): warning C4715: 'findIndex': not all control paths return a value
+  HW8_Traveling_Salesperson.vcxproj -> C:\Users\mptay\source\repos\HW8_Traveling_Salesperson\x64\Debug\HW8_Traveling_Salesperson.exe

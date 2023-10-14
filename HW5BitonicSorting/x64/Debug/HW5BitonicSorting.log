@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\mptay\source\repos\HW5BitonicSorting\Source.cpp(56,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\mptay\source\repos\HW5BitonicSorting\Source.cpp(106,29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW5BitonicSorting.vcxproj -> C:\Users\mptay\source\repos\HW5BitonicSorting\x64\Debug\HW5BitonicSorting.exe

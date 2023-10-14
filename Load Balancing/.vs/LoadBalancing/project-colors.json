@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55ba2084-19af-4556-9b4e-f4506144421d": {
+      "ProjectGuid": "55ba2084-19af-4556-9b4e-f4506144421d",
+      "DisplayName": "Load Balancing",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
